@@ -1,0 +1,8 @@
+is_obj_med,is_up_obj,is_down_obj,Direction
+No,TRUE,Yes,Front
+No,FALSE,No,Front
+Yes,FALSE,No,Front
+Yes,TRUE,No,Front
+Yes,TRUE,Yes,Back
+No,FALSE,Yes,Back
+No,TRUE,No,Back
